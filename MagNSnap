@@ -1,0 +1,20 @@
+<section class="spotlight">
+  <div class="image"><img src="images/magnsnap.jpg" alt="MAG'N SNAP Project" /></div>
+  <div class="content">
+    <h2>MAG’N SNAP<br><small>Tesi di Laurea – 2023-2024</small></h2>
+    <p><strong>Materia:</strong> Curriculum di prodotto<br>
+    <strong>Docenti:</strong> Davide Bernardini (Relatore), Viktor Malakuczi (Correlatore)<br>
+    <strong>Software:</strong> Shapr3D, Cura, OrcaSlicer, Fusion, Blender, KeyShot, PowerPoint, InDesign</p>
+
+    <p>
+      Sistema di fissaggio indipendente per cellulari su motocicli con smorzatore di vibrazioni e ricarica wireless MagSafe.
+      Il supporto funziona con una sola mano: basta tirare uno dei due morsetti, allineare il cellulare ai magneti MagSafe e premere per bloccarlo.
+      È compatto, non richiede cover dedicate e include uno smorzatore per proteggere lo smartphone dalle vibrazioni.
+    </p>
+
+    <p>
+      Il prodotto è stato progettato, testato e realizzato in più copie. Ha affrontato una fase di prototipazione complessa per raggiungere performance elevate
+      in termini di stabilità e praticità. Integra tutte le funzioni premium in un design unico.
+    </p>
+  </div>
+</section>
