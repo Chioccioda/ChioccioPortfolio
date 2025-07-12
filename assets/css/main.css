@@ -2699,6 +2699,7 @@ input, select, textarea {
 					line-height: 1.5;
 					margin-top: 0.35em;
 					opacity: 0;
+					font-weight: 600; /* oppure 700 per ancora più spessore */
 				}
 
 					.tiles article > a .content > :last-child {
