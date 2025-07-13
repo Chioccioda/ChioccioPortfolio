@@ -2687,6 +2687,7 @@ input, select, textarea {
 
 				.tiles article > a h2 {
 					margin: 0;
+					font-size: 1.5rem; /* dimensione maggiore, prova 1.25rem o 1.75rem */
 				}
 
 				.tiles article > a .content {
@@ -2699,7 +2700,7 @@ input, select, textarea {
 					line-height: 1.5;
 					margin-top: 0.35em;
 					opacity: 0;
-					font-weight: 450; /* oppure 700 per ancora più spessore */
+					font-weight: 600; /* oppure 700 per ancora più spessore */
 				}
 
 					.tiles article > a .content > :last-child {
